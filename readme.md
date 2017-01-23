@@ -9,7 +9,7 @@
 
 ##Requirements
 
-Complete each challenge in a separate file.
+Complete each challenge in a separate file. Each challenge should use gets and puts to prompt the user for input from the console.
 
 ### Challenge 1 - Calculator
 
